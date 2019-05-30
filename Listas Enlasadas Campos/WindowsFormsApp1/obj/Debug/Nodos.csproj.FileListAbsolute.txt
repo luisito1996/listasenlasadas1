@@ -1,0 +1,29 @@
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Nodos.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Nodos.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Nodos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jorge\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Nodos.csproj.GenerateResource.Cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Nodos.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\obj\Debug\Nodos.csprojResolveAssemblyReference.cache
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\obj\Debug\Nodos.csproj.GenerateResource.Cache
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\obj\Debug\Nodos.csproj.CoreCompileInputs.cache
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Maestro Tinoco\Programa Listas Enlasadas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
